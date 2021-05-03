@@ -1,2 +1,3 @@
-# VizitParser
-Parser of local news website
+Парсер новостей с сайта www.vizit.ks.ua. Выделяет новости, касающиеся водоснабжения. Клик по записи - переход в браузер. 
+
+Написано на WPF с использованием HtmlAgilityPack.
